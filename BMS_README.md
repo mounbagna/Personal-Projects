@@ -5,7 +5,7 @@ This project is a simple Banking System application implemented in C++ that allo
 
 ## Features
 ### Admin
-Admins can log in using the default password: manager. The admin functionalities include:
+Admins can log in using the default password=manager and name=admin. The admin functionalities include:
 - Add Account: Create a new customer account with necessary details.
 - View All Customers: Display a list of all registered customers.
 - Search Account: Look up a specific account using the account number.
