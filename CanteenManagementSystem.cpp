@@ -1113,10 +1113,9 @@ void intro()
       cout<<"***************************   S Y S T E M   *****************************"<<endl;
       cout<<"-------------------------------------------------------------------------"<<endl;
       cout<<"PROJECT BUILT BY : "<<endl;
-      cout<<"                        MOUNBAGNA ABDELLA ABASSE                               "<<endl;
-      cout<<"                        SALEEM AHMED ASSAN FAI                               "<<endl;
-      cout<<"                        IBRAHIM NUHU                               "<<endl;
-      cout<<"                        Guidado Oumar Alaouddini                                "<<endl;
+      cout<<"                        NAME: MOUNBAGNA ABDELLA ABASSE                               "<<endl;
+      cout<<"                        SID:200041261                               "<<endl;
+      cout<<"                        DEPT:CSE                               "<<endl;
       cout<<endl;
       cout<<"========================================================================="<<endl;
       cin.get();
