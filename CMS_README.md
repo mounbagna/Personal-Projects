@@ -1,4 +1,4 @@
-#CAFETERIA MANAGEMENT SYSTEM
+# CAFETERIA MANAGEMENT SYSTEM
 ## Overview
 This project is a Cafeteria Management System designed to streamline operations for both Admins and Customers. The application uses binary files for efficient and secure data storage and can be run in Code::Blocks or Visual Studio.
 
