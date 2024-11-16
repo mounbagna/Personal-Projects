@@ -7,6 +7,7 @@ This project is a Timetable Management System designed to manage schedules for A
 Admins log in using the following credentials:
 - Name: admin
 - Password: 123
+  
 Admin functionalities include:
 - Create Timetable: Set up a new timetable for courses.
 - Add Course: Add courses to the schedule.
@@ -19,6 +20,7 @@ Admin functionalities include:
 Teachers log in using the following credentials:
 - Name: teacher
 - Password: 123
+  
 Teacher functionalities include:
 - Postpone Course: Reschedule a course to a later time.
 - Display Course Schedule: View the timetable with all scheduled courses.
@@ -31,7 +33,7 @@ Students can perform the following actions:
 - Search Course: Look up specific courses in the schedule.
 
 ## Technical Details
-- Programming Language: C++
+- Programming Language: C
 - File Storage: Binary file format for efficient and secure data storage.
 - Compatibility: The application runs seamlessly on:
   - Code::Blocks
